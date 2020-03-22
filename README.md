@@ -5,12 +5,15 @@ Warby Parker is a transformative lifestyle brand with a lofty objective: to offe
 In this project, you will analyze different Warby Parker’s marketing funnels in order to calculate conversion rates. Here are the funnels and the tables that you are given:
 
 - Quiz Funnel:
-_survey_
+
+ _survey_
 
 - Home Try-On Funnel:
 
-_quiz
+_quiz  
+
 home_try_on
+
 purchase_
 
 This project was a collaboration with Warby Parker’s Data Science team (thank you!) and uses fictional data.
